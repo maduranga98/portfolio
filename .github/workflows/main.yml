@@ -27,5 +27,5 @@ jobs:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
         run: |
           firebase use --add
-          firebase use <your-project-id>
+          firebase use maduranga-s-portfolio
           firebase deploy --only hosting
