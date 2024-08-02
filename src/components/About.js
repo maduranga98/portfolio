@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <div className="flex flex-col items-center min-h-screen justify-center h-screen bg-gray-10 text-color4 m-5 bg-color2">
+    <div className="flex flex-col items-center min-h-screen justify-center ml-5 mr-5 text-center h-screen bg-gray-10 text-color4  bg-color2">
       <h1 className="text-4xl font-bold mb-4 text-center">About Me</h1>
       <div className="border border-solid border-color4 rounded-lg  shadow-md p-6">
         <p className="tracking-wide leading-6 text-justify mb-4">
@@ -33,10 +33,10 @@ const About = () => {
 
         <a
           href="/Maduranga_Gunasekara.pdf"
-          className="bg-color3 text-white px-4 py-2 rounded-md shadow-lg hover:bg-color4"
+          className="bg-color3 text-color5 px-4 py-2 rounded-md shadow-lg hover:bg-color4"
           download
         >
-          Download CV
+          Download My CV
         </a>
       </div>
     </div>

@@ -93,7 +93,7 @@ const Contacts = () => {
           </form>
         </div>
         <div className="w-full md:w-1/2 max-w-lg space-y-6 text-xl">
-          <div className="flex items-start space-x-2">
+          <div className="flex flex-wrap items-start space-x-2">
             <MdAddLocationAlt className="text-color3 text-2xl mt-1" />
             <p className="text-color5">
               No 41, Kurunegala road,
@@ -107,18 +107,20 @@ const Contacts = () => {
               Sri Lanka.
             </p>
           </div>
-          <div className="flex items-center space-x-2">
+          <div className="flex  items-center space-x-2 sm:flex-wrap">
             <FaMobileScreen className="text-color3 text-2xl" />
             <p className="text-color5">+94 76 620 6555</p>
           </div>
-          <div className="flex items-start space-x-2">
+          <div className="flex flex-wrap items-start space-x-2">
             <MdEmail className="text-color3 text-2xl mt-1" />
             <div>
               <p className="text-color5">
                 madurangalakbima@gmail.com
                 <br />
               </p>
-              <p className="text-color5">madurangapgunasekara@gmail.com</p>
+              <p className="text-color5 sm:text-sm">
+                madurangapgunasekara@gmail.com
+              </p>
             </div>
           </div>
         </div>

@@ -10,7 +10,7 @@ function Skills() {
       <h1 className="text-4xl font-bold text-center text-color5 mb-8">
         Skills
       </h1>
-      <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 md:grid-cols-3">
+      <div className="grid grid-cols-1 gap-8 sm:grid-cols-1 md:grid-cols-3">
         <div>
           <div className="flex items-center text-color3 mb-4 hover:text-color4">
             <IoSettingsOutline className="mr-2 text-xl " />
