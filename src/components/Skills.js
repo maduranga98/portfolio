@@ -6,7 +6,7 @@ import { FaCode, FaTools, FaLightbulb } from "react-icons/fa";
 
 function Skills() {
   return (
-    <div className="p-10">
+    <div className="p-10 h-full">
       <h1 className="text-4xl font-bold text-center text-color5 mb-8">
         Skills
       </h1>
