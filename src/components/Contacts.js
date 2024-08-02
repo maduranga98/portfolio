@@ -39,7 +39,11 @@ const Contacts = () => {
   };
 
   return (
-    <div className="container mx-auto px-4 py-8">
+    <div
+      className="container mx-auto px-4 py-8"
+      data-aos="fade-in"
+      data-aos-duration="2000"
+    >
       <h1 className="text-4xl font-bold text-center text-color5 mb-8">
         Get In Touch
       </h1>

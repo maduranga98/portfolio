@@ -32,6 +32,9 @@ const Navbar = () => {
         >
           <div
             className="flex items-center justify-center h-full px-10"
+            data-aos="fade-right"
+            data-aos-duration="2000"
+            data-aos-easing="linear"
             // onClick={(e) => e.stopPropagation()} // Prevent click event from closing menu
           >
             <ul className="flex flex-col space-y-6">

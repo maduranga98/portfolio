@@ -28,7 +28,11 @@ function Home() {
             }}
           />
         </div>
-        <div className="mt-4 md:mt-8">
+        <div
+          className="mt-4 md:mt-8"
+          data-aos="flip-up"
+          data-aos-duration="3000"
+        >
           <div className="bg-white p-4 rounded-lg shadow-lg flex items-center space-x-3 inline-flex">
             <Avatar
               alt="Maduranga"

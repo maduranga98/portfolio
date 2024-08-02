@@ -24,6 +24,10 @@ function Projects() {
             src={image3}
             alt="BPRSImage"
             className="w-full max-w-lg rounded-md"
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            data-aos-anchor-placement="top-center"
           />
         </div>
         <h2 className="text-2xl font-bold text-center">
@@ -49,16 +53,28 @@ function Projects() {
             src={h2}
             alt="h2"
             className="w-full md:w-1/3 max-w-xs rounded-md mb-4"
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            data-aos-anchor-placement="top-center"
           />
           <img
             src={h1}
             alt="h1"
             className="w-full md:w-1/3 max-w-xs rounded-md mb-4"
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            data-aos-anchor-placement="top-center"
           />
           <img
             src={h3}
             alt="h3"
             className="w-full md:w-1/3 max-w-xs rounded-md mb-4"
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            data-aos-anchor-placement="top-center"
           />
         </div>
         <h2 className="text-2xl font-bold text-center">
@@ -82,21 +98,37 @@ function Projects() {
             src={dicon}
             alt="dicon"
             className="w-full md:w-1/4 max-w-xs rounded-md mb-4"
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            data-aos-anchor-placement="top-center"
           />
           <img
             src={d1}
             alt="d1"
             className="w-full md:w-1/4 max-w-xs rounded-md mb-4"
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            data-aos-anchor-placement="top-center"
           />
           <img
             src={d2}
             alt="d2"
             className="w-full md:w-1/4 max-w-xs rounded-md mb-4"
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            data-aos-anchor-placement="top-center"
           />
           <img
             src={d3}
             alt="d3"
             className="w-full md:w-1/4 max-w-xs rounded-md mb-4"
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            data-aos-anchor-placement="top-center"
           />
         </div>
         <h2 className="text-2xl font-bold text-center">DEVICEO</h2>
@@ -113,11 +145,19 @@ function Projects() {
             src={sample1}
             alt="sample1"
             className="w-full md:w-1/2 max-w-xs rounded-md mb-4"
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            data-aos-anchor-placement="top-center"
           />
           <img
             src={sample2}
             alt="sample2"
             className="w-full md:w-1/2 max-w-xs rounded-md mb-4"
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            data-aos-anchor-placement="top-center"
           />
         </div>
         <h2 className="text-2xl font-bold text-center">Flow Talks</h2>
@@ -138,6 +178,10 @@ function Projects() {
             src={iportal}
             alt="iportal"
             className="w-full max-w-lg rounded-md"
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            data-aos-anchor-placement="top-center"
           />
         </div>
         <h2 className="text-2xl font-bold text-center">Web Portal</h2>

@@ -38,6 +38,8 @@ const About = () => {
             href="/Maduranga_Gunasekara.pdf"
             className="inline-block bg-color3 text-color5 px-4 py-2 rounded-md shadow-lg hover:bg-color4"
             download
+            data-aos="zoom-in-up"
+            data-aos-duration="3000"
           >
             Download My CV
           </a>
