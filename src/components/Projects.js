@@ -13,11 +13,10 @@ import sample2 from "../assests/sample2.jpg";
 
 function Projects() {
   return (
-    <div className="text-color4 min-h-screen w-full">
-      <h1 className="text-4xl font-bold text-center text-color5 mb-8 pt-5">
+    <div className=" text-color4 min-h-screen w-full">
+      <h1 className="text-4xl font-bold text-center text-color5  pt-5">
         Projects
       </h1>
-
       {/* BPRS Project */}
       <div className="mb-10 p-4 bg-white shadow-md rounded-lg space-y-4">
         <div className="flex justify-center">
@@ -45,7 +44,7 @@ function Projects() {
 
       {/* Aswenna Project */}
       <div className="mb-10 p-4 bg-white shadow-md rounded-lg space-y-4">
-        <div className="flex flex-wrap justify-center">
+        <div className="flex flex-wrap justify-evenly">
           <img
             src={h2}
             alt="h2"
@@ -78,7 +77,7 @@ function Projects() {
 
       {/* DEVICEO Project */}
       <div className="mb-10 p-4 bg-white shadow-md rounded-lg space-y-4">
-        <div className="flex flex-wrap justify-center">
+        <div className="flex flex-wrap justify-evenly">
           <img
             src={dicon}
             alt="dicon"
@@ -109,7 +108,7 @@ function Projects() {
 
       {/* Flow Talks Project */}
       <div className="mb-10 p-4 bg-white shadow-md rounded-lg space-y-4">
-        <div className="flex flex-wrap justify-center">
+        <div className="flex flex-wrap justify-evenly">
           <img
             src={sample1}
             alt="sample1"
@@ -133,7 +132,7 @@ function Projects() {
       </div>
 
       {/* Web Portal Project */}
-      <div className="mb-10 p-4 bg-white shadow-md rounded-lg space-y-4">
+      <div className=" p-4 bg-white shadow-md rounded-lg space-y-4">
         <div className="flex justify-center">
           <img
             src={iportal}

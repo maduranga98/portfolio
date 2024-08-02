@@ -3,7 +3,7 @@ window.env = {
   "APPDATA": "C:\\Users\\Maduranga\\AppData\\Roaming",
   "ChocolateyInstall": "C:\\ProgramData\\chocolatey",
   "ChocolateyLastPathUpdate": "133639913693856843",
-  "CHROME_CRASHPAD_PIPE_NAME": "\\\\.\\pipe\\crashpad_6048_HECMWMZONXWUTXIS",
+  "CHROME_CRASHPAD_PIPE_NAME": "\\\\.\\pipe\\crashpad_11484_YUXQCAAXXHBJLPJU",
   "COLOR": "1",
   "COLORTERM": "truecolor",
   "CommonProgramFiles": "C:\\Program Files\\Common Files",
@@ -72,7 +72,7 @@ window.env = {
   "SystemRoot": "C:\\Windows",
   "TEMP": "C:\\Users\\MADURA~1\\AppData\\Local\\Temp",
   "TERM_PROGRAM": "vscode",
-  "TERM_PROGRAM_VERSION": "1.91.1",
+  "TERM_PROGRAM_VERSION": "1.92.0",
   "TMP": "C:\\Users\\MADURA~1\\AppData\\Local\\Temp",
   "USERDOMAIN": "DESKTOP-7J6Q5GQ",
   "USERDOMAIN_ROAMINGPROFILE": "DESKTOP-7J6Q5GQ",
@@ -83,5 +83,6 @@ window.env = {
   "VSCODE_GIT_ASKPASS_MAIN": "c:\\Users\\Maduranga\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\git\\dist\\askpass-main.js",
   "VSCODE_GIT_ASKPASS_NODE": "C:\\Users\\Maduranga\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
   "VSCODE_GIT_IPC_HANDLE": "\\\\.\\pipe\\vscode-git-f98cb1ebc7-sock",
-  "windir": "C:\\Windows"
+  "windir": "C:\\Windows",
+  "__COMPAT_LAYER": "DetectorsAppHealth"
 };
