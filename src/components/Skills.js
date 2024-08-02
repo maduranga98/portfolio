@@ -11,7 +11,12 @@ function Skills() {
         Skills
       </h1>
       <div className="grid grid-cols-1 gap-8 sm:grid-cols-1 md:grid-cols-3">
-        <div>
+        <div
+          data-aos="fade-right"
+          data-aos-offset="300"
+          data-aos-duration="1000"
+          data-aos-easing="ease-in-sine"
+        >
           <div className="flex items-center text-color3 mb-4 hover:text-color4">
             <IoSettingsOutline className="mr-2 text-xl " />
             <h2 className="text-2xl font-semibold hover:text-color">
@@ -78,7 +83,12 @@ function Skills() {
             </li>
           </ul>
         </div>
-        <div>
+        <div
+          data-aos="fade-down"
+          data-aos-offset="300"
+          data-aos-duration="1000"
+          data-aos-easing="ease-in-sine"
+        >
           <div className="flex items-center text-color3 hover:text-color4 mb-4">
             <BsTools className="mr-2 text-xl" />
             <h2 className="text-2xl font-semibold">Tools</h2>
@@ -133,7 +143,12 @@ function Skills() {
             </li>
           </ul>
         </div>
-        <div>
+        <div
+          data-aos="fade-right"
+          data-aos-offset="300"
+          data-aos-duration="1000"
+          data-aos-easing="ease-in-sine"
+        >
           <div className="flex items-center text-color3 hover:text-color4 mb-4">
             <HiLightBulb className="mr-2 text-xl" />
             <h2 className="text-2xl font-semibold">Knowledge</h2>
