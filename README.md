@@ -1,5 +1,4 @@
-# This is the link for the portfolio:
-## (https://maduranga-s-portfolio.web.app/)
+This is the link for the portfolio: [My Portfolio](https://maduranga-s-portfolio.web.app/)
 
 # Getting Started with Create React App
 
